@@ -1,0 +1,5 @@
+package com.qa.Abstraction;
+
+public class Animal {
+
+}

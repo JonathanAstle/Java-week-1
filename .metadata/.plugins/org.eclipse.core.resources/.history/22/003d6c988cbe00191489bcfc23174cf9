@@ -1,0 +1,11 @@
+package com.qa.Abstraction;
+
+public class Cat extends Animal {
+	public void speak() {
+		System.out.println("meow");
+	}
+	
+	public void eat() {
+		System.out.println("*eats in cat*");
+	}
+}
